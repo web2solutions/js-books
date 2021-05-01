@@ -1,4 +1,4 @@
 
-# Kho sách
+# Books
 
-Lưu trữ các sách hay về lập trình và cuộc sống
+Have fun!
